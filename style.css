@@ -13,6 +13,9 @@
     border-bottom: black 2px solid;
     width: auto;
 }
+.direction {
+     flex-direction: column;
+}
 .exo2 {
     justify-content: space-between;
 }
@@ -20,10 +23,13 @@
     justify-content: center;
 }
 .exo4 {
-    flex-direction: column;
     align-items: flex-start;
 }
 .exo5 {
-    flex-direction: column;
     align-items: center;
+}
+.exo6 {
+    align-items: center;
+    justify-content: space-between;
+    height: 400px;
 }
