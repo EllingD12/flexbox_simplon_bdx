@@ -1,0 +1,24 @@
+.parent {
+    display: flex;
+}
+.box {
+    background-color: pink;
+    height: 40px;
+    width: 40px;
+    border: solid black 2px;
+    border-radius: 4px;
+    margin: 6px;
+}
+.exocontainer {
+    border-bottom: black 2px solid;
+    width: auto;
+}
+.exo2 {
+    justify-content: space-between;
+}
+.exo3 {
+    justify-content: center;
+}
+.exo4 {
+    align-items: baseline;
+}
