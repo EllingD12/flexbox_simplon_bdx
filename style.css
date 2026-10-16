@@ -20,5 +20,6 @@
     justify-content: center;
 }
 .exo4 {
-    align-items: baseline;
+    flex-direction: column;
+    align-items: flex-start;
 }
